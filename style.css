@@ -16,6 +16,9 @@
   
 .nav-links {
     list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
   
 .nav-item a {
